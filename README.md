@@ -87,19 +87,32 @@ Retrieves warranty information.
 Add screenshots of UI:
 
 Home Page
-<img width="1890" height="865" alt="Screenshot 2026-03-21 152229" src="https://github.com/user-attachments/assets/0eb6b66b-3696-4fd1-9025-50a7f8c528d0" />
-Seller Panel
-<img width="1852" height="870" alt="Screenshot 2026-03-21 152545" src="https://github.com/user-attachments/assets/fa81204c-ee30-4df6-a685-73bffd7a2b45" />
 
-Warranty Verification  
-<img width="1905" height="870" alt="Screenshot 2026-03-21 152625" src="https://github.com/user-attachments/assets/dd9246f8-3467-416b-a28b-c3c2e473f9a5" />
+<img width="1918" height="1008" alt="Screenshot 2026-03-27 221558" src="https://github.com/user-attachments/assets/0309bde8-8cdc-49fc-a022-b79dc75cae96" />
+
+Admin Panel
+<img width="1919" height="1007" alt="Screenshot 2026-03-27 221827" src="https://github.com/user-attachments/assets/9bfb54c6-8384-4360-ade2-8cadb263ee6b" />
+
+Seller Panel
+
+<img width="1920" height="1080" alt="Screenshot 2026-03-27 222238" src="https://github.com/user-attachments/assets/bfd1fb83-194e-49a0-80cd-8d5fc4a1ca35" />
+
+
+Warranty Verification 
+
+
+<img width="1920" height="1080" alt="Screenshot 2026-03-27 222942" src="https://github.com/user-attachments/assets/e73d6c34-0ef2-435a-84d8-4c1f4722e5b6" />
 
 QR Code Generation
 
 
+<img width="1920" height="1080" alt="Screenshot 2026-03-27 222440" src="https://github.com/user-attachments/assets/9c94e701-ec11-4303-83bb-915ba9f8b146" />
+
 ---
 
 # How to Run the Project
+
+YOUTUBE:
 
 1. Clone the repository
 2. Open project in VS Code
