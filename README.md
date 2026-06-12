@@ -1,4 +1,4 @@
-#  WarrantyChain – Blockchain Warranty System
+# WarrantyChain – Blockchain Warranty System
 
 Youtube video : https://youtu.be/2TLMwVzMLvM
 
